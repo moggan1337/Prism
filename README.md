@@ -25,6 +25,24 @@
 
 ---
 
+## 🎬 Demo
+![Prism Demo](demo.gif)
+
+*Multi-modal AI routing and orchestration*
+
+## Screenshots
+| Component | Preview |
+|-----------|---------|
+| Router Dashboard | ![router](screenshots/router.png) |
+| Model Comparison | ![compare](screenshots/model-compare.png) |
+| Request Tracing | ![tracing](screenshots/tracing.png) |
+
+## Visual Description
+Router dashboard shows incoming requests being routed to models. Model comparison displays outputs side-by-side. Request tracing shows latency breakdown per stage.
+
+---
+
+
 ## Table of Contents
 
 - [Features](#features)
